@@ -1,3 +1,4 @@
+<img src="https://socialify.git.ci/Nokwanda2000/JASON-server/image?language=1&owner=1&name=1&stargazers=1&theme=Light" alt="JASON-server" width="640" height="320" />
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
